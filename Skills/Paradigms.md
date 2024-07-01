@@ -2,12 +2,12 @@
 
 - Theory
   - Procedural programming
-  - Imperative programming *
+  - Imperative programming: 🖐️ used
   - Structured programming
   - Non-structured programming
-  - Functional programming *
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming *
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor *
-  - Operator `new` *
-  - Static method *
-  - Method *
-  - Async method *
-  - Getters, Setters *
-  - Public fields *
-  - Private fields *
-  - Field declarations *
-  - Inheritance *
-  - Parent class *
-  - Polymorphism *
-  - Abstract class *
-  - Interface *
-  - Encapsulation *
-  - Hidden class *
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
   - Object form
-  - Instance *
-  - Introspection *
-  - Reflection *
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,10 +64,10 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton *
-  - Factory Method *
-  - Abstract Factory *
-  - Adapter *
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
   - Observer
   - Strategy
   - Facade

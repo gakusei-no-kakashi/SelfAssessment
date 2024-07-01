@@ -1,173 +1,173 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model *
-  - Modeling *
-  - Subject domain *
-  - Algorithm *
-  - Syntax *
-  - Semantics *
-  - Abstraction *
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
+  - Subject domain: 🖐️ used
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
+  - Abstraction: 🖐️ used
   - Paradigm
   - Programm
   - Programming paradigm
   - Programming language
   - Contract
   - Module
-  - Library *
+  - Library: 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
-  - Source code *
+  - Source code: 🖐️ used
   - Object code
   - Machine code
   - Microcode
-  - Software engineering *
+  - Software engineering: 🖐️ used
   - Decomposition
-  - Control flow *
+  - Control flow: 🖐️ used
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) *
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
-  - Value *
-  - Identifier *
-  - Variable *
-  - Constant *
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal *
-  - Expression *
-  - Heap *
-  - Function *
-  - Procedure *
-  - Method *
-  - Class *
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
+  - Heap: 🖐️ used
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
   - Event
-  - Type *
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope *
-  - Code block *
-  - Conditions *
-  - Loops *
-  - Assignment *
-  - Regular expression *
-  - Interface *
-  - Namespaces *
-  - Call stack *
-  - Naming conventions *
-  - Coding conventions *
-  - Camel case *
-  - Snake case *
-  - Kebab case *
-  - Trailing commas *
-  - Return early *
-  - Fail-fast *
+  - Lexical scope: 🖐️ used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
+  - Namespaces: 🖐️ used
+  - Call stack: 🖐️ used
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
+  - Fail-fast: 🖐️ used
 - Types
-  - Primitive types *
-  - Reference types *
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
-  - Duck typing *
-  - Static typing *
-  - Dynamic typing *
+  - Duck typing: 🖐️ used
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
-  - Type inference *
+  - Type inference: 🖐️ used
   - Covariance
   - Contravariance
 - Functions
-  - Signature *
-  - Argument *
-  - Parameter *
-  - Pure function *
-  - Lambda expression *
-  - Side effects *
-  - Closure *
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
+  - Pure function: 🖐️ used
+  - Lambda expression: 🖐️ used
+  - Side effects: 🖐️ used
+  - Closure: 🖐️ used
   - Partial application
   - Currying
-  - Higher order *
-  - Recursion *
-  - Tail call optimisation +
-  - Callback *
+  - Higher order: 🖐️ used
+  - Recursion: 🖐️ used
+  - Tail call optimisation: 🎓 known
+  - Callback: 🖐️ used
   - Listener
-  - Composition *
+  - Composition: 🖐️ used
   - Pipe
-  - Memoize +
+  - Memoize: 🎓 known
   - Wrapper
   - Functor
   - Monad
   - Monoid
-  - Generator +
+  - Generator: 🎓 known
   - Coroutine
 - Data structures
-  - Array *
+  - Array: 🖐️ used
   - Structure
   - Record
-  - Enum *
-  - Instance *
-  - Object *
-  - Collection *
-  - Set *
-  - Hash table *
-  - Linked list +
-  - Doubly list +
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
   - Unrolled list
-  - Circular list *
-  - Queue +
-  - Stack +
-  - Deque +
-  - Tree +
-  - Graph +
-  - Iterator *
-  - Mutable state *
-  - Immutable state *
-  - Serialization *
-  - String parsing *
-  - JSON *
+  - Circular list: 🖐️ used
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🎓 known
+  - Graph: 🎓 known
+  - Iterator: 🖐️ used
+  - Mutable state: 🖐️ used
+  - Immutable state: 🖐️ used
+  - Serialization: 🖐️ used
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
-  - YAML *
+  - YAML: 🖐️ used
 - Networking
-  - DNS ~
-  - CDN ~
-  - CORS *
+  - DNS: 👂 heard
+  - CDN: 👂 heard
+  - CORS: 🖐️ used
   - IPv4
   - IPv6
   - NAT
-  - URL *
+  - URL: 🖐️ used
   - URN
-  - URI +
+  - URI: 🎓 known
 - Process and tools
-  - Compiler *
-  - Just-in-time compilation *
-  - Ahead-of-time compilation *
-  - Transpiler *
-  - Linter *
+  - Compiler: 🖐️ used
+  - Just-in-time compilation: 🖐️ used
+  - Ahead-of-time compilation: 🖐️ used
+  - Transpiler: 🖐️ used
+  - Linter: 🖐️ used
   - Polyfill
-  - Interpreter *
+  - Interpreter: 🖐️ used
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime *
-  - Virtual machine *
+  - Runtime: 🖐️ used
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
-  - Containerization *
-  - Debugger *
-  - Tracing *
-  - Garbage collection +
-  - Refactoring *
-  - Code review *
-  - Exception *
-  - Unittesting *
-  - git *
-  - Github *
-  - Docker *
-  - Kubernetes *
+  - Containerization: 🖐️ used
+  - Debugger: 🖐️ used
+  - Tracing: 🖐️ used
+  - Garbage collection: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 🖐️ used
+  - Kubernetes: 🖐️ used
   - GCC
   - LLVM
 - Antipatterns
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8 ~
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
@@ -222,18 +222,18 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII *
-  - Escape sequence *
+  - ASCII: 🖐️ used
+  - Escape sequence: 🖐️ used
   - RFC
   - IETF
   - IANA
   - IEEE
-  - Base64 *
+  - Base64: 🖐️ used
   - ECMA
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8 *
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG

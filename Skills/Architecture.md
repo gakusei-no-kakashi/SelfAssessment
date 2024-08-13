@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
+  - SOLID: 🎓 known
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 👂 heard
   - Cohesion
-  - Coupling
+  - Coupling: 👂 heard
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -25,30 +25,30 @@
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL): 🖐️ used
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 🖐️ used
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 🖐️ used
+  - Message brocker: 👂 heard
   - Agent
   - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Message Queue (MQ): 👂 heard
+  - CQRS: 👂 heard
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - High-intensive computing
   - Load balancing
   - Gateways
@@ -80,21 +80,21 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
+  - Understanding business needs: 🖐️ used
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems: 🖐️ used
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 🖐️ used
   - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
+  - Service-oriented architecture: 🖐️ used
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
+  - Data warehouse: 🎓 known
+  - Business Intelligence: 🎓 known
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
   - Conways Law
   - Quality assurance
-  - Engineering Hygiene
+  - Enginering Hygiene

@@ -2,9 +2,9 @@
 
 - Theory
   - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,19 +22,19 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
+  - Deferred: 🖐️ used
   - Sync generator
   - Async Generator
   - Async Iterator
   - Event
   - Coroutine
-  - Goroutine
+  - Goroutine: 🎓 known
   - Signal
   - Stream
   - Chain of responsibility
